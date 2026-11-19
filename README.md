@@ -1,6 +1,6 @@
 # doomscroll-bench
 
-The harness behind *Doomscrolling* (link). Each model scrolls Instagram Reels on its own logged-in account. This page is the method: what a model is shown, what it is told, and what its replies do on Instagram.
+The harness behind [*Doomscrolling*](https://surya.website/doomscrolling). Each model scrolls Instagram Reels on its own logged-in account. This page is the method: what a model is shown, what it is told, and what its replies do on Instagram.
 
 ## One Reel
 
